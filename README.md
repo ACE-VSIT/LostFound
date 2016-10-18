@@ -9,4 +9,5 @@ Easy Link: http://vipslostfound.esy.es/ (No setup req, just click and play)
 2. only use localhost, not 127.0.0.l
 3. update your database with LostFound.sql
 4. change controllers/config.php file if req
-5. And then simply run it in your browser.
+5. Also change controllers/upload/ folders permission to 777 or Read, Write and execute 
+6. And then simply run it in your browser.
